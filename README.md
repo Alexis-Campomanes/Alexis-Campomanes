@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Alexis, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="13"/> <b>Lima, Perú</b></p>
+<p>Welcome to my page! </br> I'm Alexis, Frontend developer and  Bachelor's degree of geographic engineering from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="13"/> <b>Lima, Perú</b></p>
 <h2>🚀 Some Tools I Use</h2>
 <div display='flex'>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -21,9 +21,7 @@
 </div>  
 <br><br>
   <h2>⚡️ A Few Quick Facts</h2>
-  <ul>
-  <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Alexis-Campomanes">Github</a>.</li>
-  <li>📙 Check out my <a href="">resume</a>.</li>
-  </ul>
+    <p>📙 Check out my <a href="">resume</a>.</p>
+  
     
 
