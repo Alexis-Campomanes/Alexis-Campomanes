@@ -14,13 +14,12 @@
 </div>
 <br/>
 <div>
-  🔗 &nbsp;**Connect with me**
-  <p align="left">
-  <a href="https://twitter.com/AlexisC47558826?t=lnR_OzuEApBldS9PuvM--g&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/alexiscampomanes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" />
+  <h2>🔗 &nbsp;**Connect with me**</h2>
+    <p align="left">
+    <a href="https://twitter.com/AlexisC47558826?t=lnR_OzuEApBldS9PuvM--g&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/alexiscampomanes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /> </a>
 </div>  
   <h2>⚡️ A Few Quick Facts</h2>
-    <p>📙 Don´t forget to get some Potassium<a></a></p>
     <p>👨‍💻 Most of my projects are available on <a href="https://github.com/Alexis-Campomanes">Github</a></p>
     <p>📙 Check out my <a href="">resume</a>.</p>
   <br><br>
