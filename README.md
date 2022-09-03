@@ -10,6 +10,7 @@
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="nodejs" width="25" height="25" />
   <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="spring" width="25" height="25" />
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="spring" width="25" height="25" />
+  <img src="https://icongr.am/devicon/less-plain-wordmark.svg?size=128&color=currentColor" alt="spring" width="25" height="25" />
 </div>
 <br/>
 <div>
@@ -19,5 +20,10 @@
   <a href="https://www.linkedin.com/in/alexiscampomanes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" />
 </div>  
 <br><br>
+  <h2>⚡️ A Few Quick Facts</h2>
+  <ul>
+  <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Alexis-Campomanes">Github</a>.</li>
+  <li>📙 Check out my <a href="">resume</a>.</li>
+  </ul>
     
 
