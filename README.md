@@ -20,8 +20,8 @@
     <a href="https://www.linkedin.com/in/alexiscampomanes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /> </a>
 </div>  
   <h2>⚡️ A Few Quick Facts</h2>
-    <p>👨‍💻 Most of my projects are available on <a href="https://github.com/Alexis-Campomanes">Github</a></p>
-    <p>📙 Check out my <a href="">resume</a>.</p>
+    <p>👨‍💻 Access to my<a href="https://github.com/Alexis-Campomanes">Repo</a></p>
+    <p>📙 Access to my<a href="https://cv-alexis-campomanes.netlify.app/">resume</a>.</p>
   <br><br>
     <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
   
